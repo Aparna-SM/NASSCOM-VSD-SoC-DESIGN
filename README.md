@@ -8,6 +8,6 @@ To run openlane version 0.9
 %prep -design picorv32a
 %run_synthesis
 ![final synthesis](https://github.com/user-attachments/assets/2919a43b-cbd6-42b2-9812-919d28c7354e)
-
+now open the "runs" file 
 
 
