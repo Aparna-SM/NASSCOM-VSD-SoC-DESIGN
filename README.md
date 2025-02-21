@@ -40,8 +40,24 @@ Keep press 'S' to select and 'V' to align the design in the centre (back to posi
 review in magic 
 ![magic view ](https://github.com/user-attachments/assets/deba5cd4-a8e2-4cc1-b675-eaf3801b0765)
 
-
-
+# DAY 3 
+To get the github files
+![github files ](https://github.com/user-attachments/assets/9888edd3-c978-4186-b808-b6941750b1c6)
+To get the sky130A.tech files
+![copy sky130A tech](https://github.com/user-attachments/assets/da51c3ab-0b08-4d5a-8cee-5ce67e599d5f)
+check if it got copied 
+![got copied](https://github.com/user-attachments/assets/09f0f913-ea3d-4475-87a5-ad1754973a4c)
+Run magic to see the CMOS inverter layout 
+![code for inv using magic](https://github.com/user-attachments/assets/b2a37573-3427-4ef1-b61a-0073415b4bfa)
+![inverter using magic](https://github.com/user-attachments/assets/168c2e81-9e41-4252-bf44-34cc8bbe23d1)
+By selecting ('S') we can ask 'what' in the tcon window
+![checking ](https://github.com/user-attachments/assets/4d96adc9-73bc-489d-92e6-b605ee98aeba)
+Extract the spice model by typing 'extract all' in the tcon window 
+![extract design ](https://github.com/user-attachments/assets/d6ba84cc-26af-4172-83f6-b4e657798273)
+![creation of spice](https://github.com/user-attachments/assets/f3d6b28b-77c5-4c76-b5bb-e1528ece865f)
+Edit the values in spice according to the requirement 
+![vim sky130 inv spice](https://github.com/user-attachments/assets/da5b3df2-1b2a-448b-ad28-ca5e899396b2)
+![edit values of spice](https://github.com/user-attachments/assets/6e1b92ed-1ba9-4acd-896c-34627f5f27b0)
 
 
 
