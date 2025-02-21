@@ -21,4 +21,30 @@ count of D flip flop = 1613 ;
 Flop ratio = 1613/14876 = 0.1084 [10.84%] ;
 ![opensta rpt](https://github.com/user-attachments/assets/caac2564-3771-49b6-bd14-d54ca27e0e9f)
 
+# DAY 2 - Introduction to Magic
+%run_floorplan
+![floorplan default val](https://github.com/user-attachments/assets/b26065a7-28ef-4e0f-a18d-41fea275abab)
+
+open the floorplan output files to know the die value 
+![placement ](https://github.com/user-attachments/assets/4b6c171d-bc9d-4731-b3a6-16b20d54e825)
+use the command magic -T to open the magic tool 
+![openingg magic](https://github.com/user-attachments/assets/883300f8-40cf-4401-997c-b7103df13e1b)
+![magic](https://github.com/user-attachments/assets/02a06878-a361-45d3-b58d-62a4af0a123a)
+Keep press 'S' to select and 'V' to align the design in the centre (back to position)
+![mux](https://github.com/user-attachments/assets/61c51ce0-e822-48e7-b866-16bc6b66705f)
+![what= where it is ](https://github.com/user-attachments/assets/10399d8a-dd2f-4d69-a2df-d294b4d09f7b)
+
+%run placement 
+![Screenshot 2025-02-18 220331](https://github.com/user-attachments/assets/fd21b421-5113-4421-8e97-4499fe1600bf)
+
+review in magic 
+![magic view ](https://github.com/user-attachments/assets/deba5cd4-a8e2-4cc1-b675-eaf3801b0765)
+
+
+
+
+
+
+
+
 
